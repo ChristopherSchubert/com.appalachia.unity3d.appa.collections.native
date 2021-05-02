@@ -1,0 +1,14 @@
+{
+	"name": "com.appalachia.unity3d.appa.collections.native",
+    "rootNamespace": "Appalachia.Collections.Native",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
